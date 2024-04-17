@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![CU FOODS Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![CU FOODS Desktop Demo](./img/LIVE%20DEMO.jpeg "Desktop Demo")
 
 ### Prerequisites
 
